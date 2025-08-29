@@ -2,7 +2,7 @@
 content_type: page
 description: This page provides the online textbook file.
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 ocw_type: SupplementalResourceSection
 title: Online Textbook
 uid: c8352e04-c596-50e4-62b1-0a2738eefa70
