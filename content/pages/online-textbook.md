@@ -16,7 +16,7 @@ The complete book is provided as a free download (License CC BY-NC-SA), courtesy
 
 The book is also available in paperback for purchase:
 
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262526548) Mahajan, Sanjoy. _The Art of Insight in Science and Engineering: Mastering Complexity_. MIT Press, 2014. ISBN: 9780262526548. \[Preview with [Google Books](http://books.google.com/books?id=xRgeBQAAQBAJ&pg=PAfrontcover)\]
+*   {{% resource_link "481e8831-c278-437a-8d0e-09b3f4e6b640" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mahajan, Sanjoy. _The Art of Insight in Science and Engineering: Mastering Complexity_. MIT Press, 2014. ISBN: 9780262526548. \[Preview with {{% resource_link "7de6e694-2622-460d-ac19-36840def345c" "Google Books" %}}\]
 
 Brief Table of Contents
 -----------------------
